@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Data Science, Machine Learning**
 
-- 📫 How to reach me **vaidiknakranipmv@gmail.com**
+- 📫 How to reach me **vaidiknakrani0508@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
