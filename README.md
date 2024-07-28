@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaidik Nakrani</h1>
-<h3 align="center">A passionate Data Science & Machine Leaning Student from India</h3>
+<h3 align="center">A passionate AI & Machine Learning Software Engineer</h3>
 
 
-- 💬 Ask me about **Computer Vision, Data Science, Machine Learning**
+- 💬 Ask me about **Computer Vision, LLM, AI Agents, Data Science, Machine Learning**
 
 - 📫 How to reach me **vaidiknakrani0508@gmail.com**
 
