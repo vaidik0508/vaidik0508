@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vaidik Nakrani</h1>
-<h3 align="center">A passionate AI & Machine Learning Software Engineer</h3>
+<h3 align="center">A passionate GenAI & Machine Learning Software Engineer</h3>
 
 
-- 💬 Ask me about **Computer Vision, LLM, AI Agents, Data Science, Machine Learning**
+- 💬 Ask me about **GenAI, AI Agent, RAG, Computer Vision, LLM, AI Agents, Data Science, Machine Learning**
 
 - 📫 How to reach me **vaidiknakrani0508@gmail.com**
 
-- Portfolio : [link](https://vaidiknakrani0508.wixsite.com/portfolio)
+- Portfolio : [link](https://access-vaidik.vercel.app/)
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaidik-nakrani-a079b7188)
