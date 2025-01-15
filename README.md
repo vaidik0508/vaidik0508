@@ -27,14 +27,20 @@ Life is like a neural network - it's all about finding the right weights and min
 ### AI & ML
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.brandfetch.io/idcO2bCwIM/theme/light/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="crewai" width="80" height="80"/>
+  <img src="https://cdn.brandfetch.io/id6a4s3gXI/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="llama-index" width="80" height="80"/>
+  <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="langchain" width="50" height="50"/>
+  <img src="https://cdn.brandfetch.io/idZF7NyACs/w/214/h/72/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="QDrant" width="50" height="50"/>
+  <img src="https://cdn.brandfetch.io/idCLuo1dQ8/w/178/h/178/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Pinecone" width="50" height="50"/>
+  <img src="https://cdn.brandfetch.io/idvwdVg7I7/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Huggingface" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  <img src="https://cdn.brandfetch.io/idj_tf3SOP/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="lightning" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="keras" width="40" height="40"/>
-  <img src="https://www.langchain.com/favicon.ico" alt="langchain" width="40" height="40"/>
-  <img src="https://www.langchain.com/favicon.ico" alt="langchain" width="40" height="40"/>
+
 </p>
 
 ### Data Science & Analytics
@@ -46,11 +52,10 @@ Life is like a neural network - it's all about finding the right weights and min
 
 ### Development & Tools
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+  <img src="https://cdn.brandfetch.io/ideyyfT0Lp/w/800/h/202/theme/light/idGfqn8y6C.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="mongodb" width="60" height="40"/>
 </p>
 
 ## 📈 GitHub Stats
