@@ -2,7 +2,7 @@
 <h3 align="center">A passionate GenAI & Machine Learning Software Engineer</h3>
 
 
-- 💬 Ask me about **GenAI, AI Agent, RAG, Computer Vision, LLM, AI Agents, Data Science, Machine Learning**
+- 💬 Ask me about **GenAI, AI Agent, RAG, LLM, VLM, LLM Finetuning, Computer Vision, LLM, AI Agents, Data Science, Machine Learning**
 
 - 📫 How to reach me **vaidiknakrani0508@gmail.com**
 
