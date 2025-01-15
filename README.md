@@ -58,10 +58,3 @@ Life is like a neural network - it's all about finding the right weights and min
   <img src="https://cdn.brandfetch.io/ideyyfT0Lp/w/800/h/202/theme/light/idGfqn8y6C.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="mongodb" width="60" height="40"/>
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vaidik0508&show_icons=true&locale=en&layout=compact&theme=dark" alt="vaidik0508" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidik0508&show_icons=true&locale=en&theme=dark" alt="vaidik0508" />
-</p>
